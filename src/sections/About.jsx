@@ -10,10 +10,11 @@ const About = () => {
     from prototype to production`;
   const aboutText = `Obsessed with building fast, intuitive apps—from pixel-perfect React UIs to bulletproof serverless backends. Every line of code is a promise: quality that users feel.
   When I’m not shipping:
-⚡️ Open-sourcing my latest experiment (or hacking on yours)
-🎥 Teaching devs on Twitch/YouTube—because rising tides lift all ships
-🧗 Rock climbing (problem-solving with real stakes)
-🎸 Strumming chords while CI pipelines pass (multitasking at its finest)`;
+Building and refining full-stack projects (MERN, Node, MongoDB, Next.js)
+ Experimenting with animations, 3D (Three.js), and modern UI patterns
+ Improving system design, APIs, and authentication flows
+ Debugging, refactoring, and optimizing until things feel right
+ Constantly learning — because good developers never stop⚡️ `;
   const imgRef = useRef(null);
   useGSAP(() => {
     gsap.to("#about", {
