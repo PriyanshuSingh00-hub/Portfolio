@@ -83,7 +83,7 @@ export const projects = [
     name: "Airbnb – Hotel Listing Platform",
     description:
       "A full-stack Airbnb-style hotel listing application with secure authentication, hotel management, ratings, reviews, and interactive maps. Deployed with cloud database and session handling.",
-    href: "https://github.com/PriyanshuSingh00-hub", // replace with exact repo if you want
+    href: "https://github.com/PriyanshuSingh00-hub/Airbnb", 
     image: "/assets/projects/apple-tech-store.jpg",
     bgImage: "/assets/backgrounds/map.jpg",
     frameworks: [
@@ -99,7 +99,7 @@ export const projects = [
     name: "Alumni Management System",
     description:
       "A MERN-based platform for managing alumni connections, events, job postings, and discussions with authentication and an admin dashboard.",
-    href: "https://github.com/PriyanshuSingh00-hub",
+    href: ",https://github.com/PriyanshuSingh00-hub/Alumni-Management-System",
     image: "/assets/projects/electronics-store.jpg",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -115,7 +115,7 @@ export const projects = [
     name: "Sehat Saathi – Healthcare Guidance Platform",
     description:
       "An open-source healthcare guidance platform focused on symptom tracking and AI-based assistance, with strong test coverage and multilingual support.",
-    href: "https://github.com/PriyanshuSingh00-hub",
+    href: ",https://github.com/PriyanshuSingh00-hub/sehat-saathi-guide",
     image: "/assets/projects/game-store.jpg",
     bgImage: "/assets/backgrounds/blanket.jpg",
     frameworks: [
