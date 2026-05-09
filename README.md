@@ -127,7 +127,7 @@ npm run preview
 ## 🎯 Key Sections
 
 ### 🎬 Hero
-Captivating introduction with animated elements and smooth scroll transitions.
+Captivating introduction with animated elements and smooth scroll transitions
 
 ### 👤 About
 Detailed information about skills, experience, and professional background.
