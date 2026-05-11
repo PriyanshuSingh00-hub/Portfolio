@@ -22,7 +22,7 @@
 - 🎭 **Smooth Animations** - GSAP-powered transitions and effects.
 - 🌌 **3D Graphics** - React Three Fiber for immersive 3D elements.
 - 📱 **Responsive Design** - Mobile-friendly with Tailwind CSS.
-- ⚡ **High Performance** - Built with Vite for lightning-fast development and builds
+- ⚡ **High Performance** - Built with Vite for lightning-fast development and builds.
 - 🎯 **Interactive Components** - Dynamic scrolling and animated text transitions
 - 🎨 **Modern UI** - Clean, professional design with custom fonts
 - 🚀 **Production Ready** - Optimized builds and fast deployment.
