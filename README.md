@@ -26,7 +26,7 @@
 - 🎯 **Interactive Components** - Dynamic scrolling and animated text transitions
 - 🎨 **Modern UI** - Clean, professional design with custom fonts.
 - 🚀 **Production Ready** - Optimized builds and fast deployment.
-- ♿ **Smooth Scrolling** - Enhanced UX with Lenis scroll optimization
+- ♿ **Smooth Scrolling** - Enhanced UX with Lenis scroll optimization.
 
 ---
 
